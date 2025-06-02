@@ -1,20 +1,3 @@
-# narottam-infra-001
-
-I can't directly provide file downloads, but I can show you how to save the `README.md` file on your local system.
-
-### 📥 To Save the README.md File
-
-#### ✅ Option 1: Manually Create the File
-
-1. Open a text editor like **Notepad**, **VS Code**, or **Notepad++**.
-2. Copy the content below.
-3. Save the file as `README.md` in your project folder.
-
----
-
-**📄 Copy and paste this:**
-
-````markdown
 # 🙏 Tribute App – Flask Web Assignment
 
 This is a heartfelt web application developed using **Python Flask** to pay tribute to Ashish Sir and Aman Sir for their guidance, mentorship, and incredible support.
@@ -143,11 +126,6 @@ This app is a tribute with love and gratitude to
 ---
 
 > Let’s keep the spirit alive – with unity, respect, and growth 🚀
-> – Team B17
+> – Narottam (B17)
 
-```
-
----
-
-Let me know if you'd like a downloadable `.zip` version with this README included.
 ```
